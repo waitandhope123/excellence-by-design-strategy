@@ -47,11 +47,10 @@ All contributions are welcome as long as they maintain the project’s tone and 
 # ⭐ 3. Repository Structure  
 Please follow the existing folder layout:
 
-/principles → foundational cultural principles
-/systems → operational and structural systems
-/leadership → leadership and behavior guidelines
-/documents → long-form cultural texts
-
+principles → foundational cultural principles
+systems → operational and structural systems
+leadership → leadership and behavior guidelines
+documents → long-form cultural texts
 
 Place new files in the appropriate folders and name them clearly.
 
